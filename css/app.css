@@ -14,3 +14,10 @@ body {
     align-items: center;
     height: 100%;
 }
+
+.icon {
+    padding: 24px;
+    fill: white;
+    width: 32px;
+    height: 32px;
+}
